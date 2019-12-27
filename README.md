@@ -2,13 +2,12 @@
 This is a practise to improve website seo
 
 # Important Articles
-<ul>
-  <li>
+<p>
     (.......!)
     https://moz.com/blog/meta-referrer-tag
-  </li>
-  <li>
+</p>
+<p>
     (......!.)
     https://kb.yoast.com/kb/warning-fb-app-id-hasnt-been-included-in-the-meta-tags/
-  </li>
- </ul>
+</p>
+ 
